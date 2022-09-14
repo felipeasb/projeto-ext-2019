@@ -1,3 +1,5 @@
+//Baseado no código de Pedro Bertoleti do site FilipeFlop
+
 
 #include <DHT.h> 
 #include <ESP8266WiFi.h> 
