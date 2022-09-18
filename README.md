@@ -1,6 +1,7 @@
 # projeto-ext-2019
 Projeto de extensão com a proposta de prototipar um dispositivo móvel para monitoramento de eficiência energética em ambientes internos.
 Participação do aluno Felipe Barbosa (eu), do curso de Engenharia Eletrônica do CEFET/RJ.
+
 ![712d6885-43bf-4add-aaf8-664487f5dfad](https://user-images.githubusercontent.com/79610980/190223191-e033cf29-9732-4378-be6d-8b0730c5001d.jpg)
 O projeto de extensão foi desenvolvido com auxílio do Departamento de Tecnologia da Informação do CEFET/RJ. O objetivo principal era programar um Node MCU com ESP8266 para que fizesse o monitoramento de algumas variáveis presentes em um ambiente escolhido dentro da instituição.
 
